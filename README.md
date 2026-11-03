@@ -120,7 +120,7 @@ The application will open in your browser.
 
 **YOUR NAME**
 
-GitHub: [YOUR_GITHUB_PROFILE](https://github.com/RishabhChauhan-AI)
+GitHub: [MY_GITHUB_PROFILE](https://github.com/RishabhChauhan-AI)
 
 ---
 
